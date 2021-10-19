@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=HumanPlayer
+comment0.text=\n\ A\ class\ representing\ a\ user-controlled\ tic-tac-toe\ player\n\ Subclass\ of\ APlayer\n\n\ @author\ Eric\ Wnorowski\n\ @version\ HW2\n
+comment1.params=game\ symbol
+comment1.target=HumanPlayer(Game,\ char)
+comment1.text=\n\ Constructor\ of\ HumanPlayer\ objects\n\ \n\ @param\ game\ -\ the\ game\ HumanPlayer\ will\ join\n\ @param\ symbol\ -\ the\ corresponding\ player's\ symbol\n
+comment2.params=
+comment2.target=Move\ pickMove()
+comment2.text=\n\ Generates\ new\ move\ based\ on\ user\ input\ for\ row\ and\ column\n\ use\ isValidMove()\ to\ check\ if\ the\ input\ is\ within\ the\ allowed\ range\n\ and\ to\ confirm\ that\ the\ space\ is\ unoccupied\ (write\ appropriate\ error\ message\ for\ each\ case)\n\ if\ not\ simply\ call\ pickMove()\ again\ so\ that\ it\ runs\ until\ a\ valid\ move\ is\ made\n\ if\ the\ user\ writes\ quit\ at\ any\ point\ should\ return\ null\n\ \n\ @return\ a\ Move\ -\ user\ generated\ move\n\ \ \ \ \ \ or\ null\ -\ user\ quits\n
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CpuPlayer
+comment0.text=\n\ A\ class\ representing\ a\ computer-controlled\ tic-tac-toe\ player\n\ Subclass\ of\ APlayer\n\n\ @author\ Eric\ Wnorowski\n\ @version\ HW2\n
+comment1.params=game\ symbol
+comment1.target=CpuPlayer(Game,\ char)
+comment1.text=\n\ Constructor\ of\ CpuPlayer\ objects\n\ \n\ @param\ game\ -\ the\ game\ CpuPlayer\ will\ join\n\ @param\ symbol\ -\ the\ corresponding\ player's\ symbol\n
+comment2.params=
+comment2.target=Move\ pickMove()
+comment2.text=\n\ Generates\ new\ move\ based\ on\ computer\ generated\ row\ and\ column\n\ use\ isValidMove()\ to\ check\ if\ the\ space\ is\ empty,\n\ if\ not\ simply\ call\ pickMove()\ again\ so\ that\ it\ runs\ until\ a\ valid\ move\ is\ made\n\ \n\ @return\ a\ Move\ -\ computer\ generated\ move,\ cpu\ must\ make\ a\ move.\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ can\ not\ return\ null\n
+numComments=3

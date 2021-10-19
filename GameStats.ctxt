@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GameStats
+comment0.text=\n\ Records\ Game\ statistcs,\ \n\ implements\ win,\ tie,\ and\ loss\ accumulation,\ and\ \n\ provides\ textual\ representation\ of\ statistics\n\ \n\ @author\ Eric\ Wnorowski\n\ @version\ HW2\n
+comment1.params=
+comment1.target=GameStats()
+comment1.text=\n\ Constructor\ for\ object\ GameStats\n\ itializes\ all\ fields\ to\ zero\n\ container\ for\ user's\ total\ statistics\n
+comment2.params=
+comment2.target=void\ recordWin()
+comment2.text=\n\ Increments\ user's\ total\ number\ of\ wins\ by\ one\n
+comment3.params=
+comment3.target=void\ recordTie()
+comment3.text=\n\ Increments\ user's\ total\ number\ of\ ties\ by\ one\n
+comment4.params=
+comment4.target=void\ recordLoss()
+comment4.text=\n\ Increments\ user's\ total\ number\ of\ losses\ by\ one\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ Provides\ a\ textual\ representation\ of\ user's\ number\ of\ wins,\ ties,\ and\ losses\n
+numComments=6

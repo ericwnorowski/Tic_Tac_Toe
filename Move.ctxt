@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Move
+comment0.text=\n\ A\ class\ that\ implements\ Move\ object,\ initliazes\ a\ new\ Move,\ \n\ and\ passes\ through\ row\ and\ col\n\n\ @author\ Eric\ Wnorowski\n\ @version\ HW2\n
+comment1.params=row\ col
+comment1.target=Move(int,\ int)
+comment1.text=\n\ Constructor\ of\ Move\ objects\n\ \n\ @param\ row\ -\ user/cpu\ generated\ row\n\ @param\ col\ -\ user/cpu\ generated\ column\n
+numComments=2

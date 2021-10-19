@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=APlayer
+comment0.text=\n\ An\ abstract\ class\ representing\ a\ generic\ tic-tac-toe\ player\n\ Parent\ class\ of\ CpuPlayer\ and\ HumanPlayer\n\n\ @author\ Eric\ Wnorowski\n\ @version\ HW2\n
+comment1.params=
+comment1.target=APlayer()
+comment1.text=\n\ Empty\ constructor\ for\ APlayer\ objects\n\ \n
+comment2.params=game\ symbol
+comment2.target=APlayer(Game,\ char)
+comment2.text=\n\ Constructor\ for\ APlayer\ objects\n\ \n\ @param\ game\ -\ the\ game\ APlayer\ will\ join\n\ @param\ symbol\ -\ the\ corresponding\ player's\ symbol\n
+comment3.params=
+comment3.target=char\ getSymbol()
+comment3.text=\n\ Returns\ the\ players\ symbol\n\ @return\ char\ symbol\ -\ a\ char\ representing\ the\ player's\ symbol\n
+comment4.params=
+comment4.target=Move\ pickMove()
+comment4.text=\n\ Constructor\ method\ for\ pickMove()\ in\ subclasses\n\ \n\ @return\ null\ -\ signify's\ player\ wishes\ to\ quit\ game;\n
+numComments=5
